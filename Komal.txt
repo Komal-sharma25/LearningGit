@@ -1,2 +1,1 @@
-Komal Sharma
-She is Learning Git.
+Komal is learning Git.
